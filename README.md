@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishu-4568/Leetcode/tree/master/0001-two-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aishu-4568/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/Aishu-4568/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/Aishu-4568/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aishu-4568/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
