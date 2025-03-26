@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aishu-4568/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Aishu-4568/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aishu-4568/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aishu-4568/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aishu-4568/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aishu-4568/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Aishu-4568/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aishu-4568/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aishu-4568/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Aishu-4568/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Aishu-4568/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Queue
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aishu-4568/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aishu-4568/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aishu-4568/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
